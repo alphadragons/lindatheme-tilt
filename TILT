@@ -1,4 +1,23 @@
-  <!--    BASE CODE BY THEMESREC -->
+ <!--    BASE CODE BY THEMESREC -->
+<!-- THEME BY ALPHADRAGONS.TUMBLR.COM -->
+<!--
+________     _________              ________
+    I            I         I           I
+    I            I         I           I
+    I            I         I           I
+    I         ___I____     I_____      I
+    
+                               by: ALPHADRAGONS.TUMBLR
+
+
+DO NOT TAKE THE CREDIT FOR THIS THEME
+DO NOT USE AS BASE CODE
+DO NOT EDIT OR MANIPULATE THIS THEME
+
+THANK YOU!
+
+LINDA (ALPHADRAGONS)
+-->
  
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
  
@@ -252,7 +271,7 @@ filter:alpha(opacity=70);
 #audioplayer:hover {
     width:215px;
     height:30px;
-	background: white;
+    background: white;
     position:absolute;
     margin-top:40px;
     margin-bottom:30px;
